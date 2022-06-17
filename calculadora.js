@@ -12,5 +12,5 @@ function calcu(num1 = 0, operador = "+", num2 = 0) {
     //     return 0;
     // }
   
-    return eval(`${num1}${operador}${num2}`);
+     return eval(`${num1}${operador}${num2}`);
   }
